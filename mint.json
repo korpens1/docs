@@ -29,6 +29,10 @@
     {
       "name": "Dokumentacja API",
       "url": "api-reference"
+    },
+    {
+      "name": "ściągawka XD",
+      "url": "test"
     }
   ],
   "anchors": [
@@ -60,6 +64,10 @@
     {
       "group": "API Documentation",
       "pages": ["api-reference/introduction"]
+    },
+    {
+      "group": "Ściągawka",
+      "pages": ["test/development", "quickstart"]
     },
     {
       "group": "Endpoint Examples",
