@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Dokumentacjca",
+  "name": "DOCS",
   "logo": {
-    "dark": "/logo/khs-lgo.png",
-    "light": "/logo/khs-lgo.png"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
-  "favicon": "/logo/khs-lgo.png",
+  "favicon": "favicon.svg",
   "colors": {
     "primary": "#ff3c00",
-    "light": "#07C983",
+    "light": "#ff3c00",
     "dark": "#ff3c00",
     "anchors": {
       "from": "#ff3c00",
-      "to": "#07C983"
+      "to": "#ff3c00"
     }
   },
   "topbarLinks": [
