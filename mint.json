@@ -51,7 +51,7 @@
   "navigation": [
     {
       "group": "Zaczynajmy!",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["wstep", "quickstart", "development"]
     },
     {
       "group": "Essentials",
@@ -71,7 +71,8 @@
     }
   ],
   "footerSocials": {
-    "github": "https://github.com/korpens1"
+    "github": "https://github.com/korpens1",
+    "discord": "https://discadia.com/korpens"
   },
   "search": {
     "prompt": "Wyszukaj..."
