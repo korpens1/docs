@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "DOCS",
+  "name": "DOCS KS Studio",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,17 +17,17 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Kontakt",
       "url": "mailto:korpens.yt@gmail.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://korpens.kezrp.pl/n/"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Dokumentacja API",
       "url": "api-reference"
     }
   ],
@@ -38,19 +38,19 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Discord",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Github",
+      "icon": "github",
+      "url": "https://github.com/korpens1"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Zaczynajmy!",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
