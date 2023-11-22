@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "DOCS KS Studio",
   "logo": {
-    "dark": "https://cdn.discordapp.com/attachments/954862885962657795/1176924031472123974/dark-svg.png",
-    "light": "https://cdn.discordapp.com/attachments/954862885962657795/1176924031472123974/dark-svg.png"
+    "dark": "/logo/dark-svg.svg",
+    "light": "/logo/dark-svg.svg"
   },
-  "favicon": "favicon.svg",
+  "favicon": "https://cdn.discordapp.com/attachments/954862885962657795/1124804921666064474/khs-lgo.png",
   "colors": {
     "primary": "#ff6535",
     "light": "#ff6535",
