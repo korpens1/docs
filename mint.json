@@ -27,12 +27,8 @@
   },
   "tabs": [
     {
-      "name": "Dokumentacja API",
+      "name": "Status API",
       "url": "api-reference"
-    },
-    {
-      "name": "ściągawka XD",
-      "url": "test"
     }
   ],
   "anchors": [
@@ -44,7 +40,7 @@
     {
       "name": "Discord",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://discord.gg/CzvAPktpns"
     },
     {
       "name": "Github",
