@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Hosting",
+      "name": "Game Host",
       "icon": "server",
       "url": "https://hostyard.eu"
     },
@@ -57,7 +57,7 @@
       "group": "Poradniki",
       "pages": ["poradniki/token"]
     },    {
-      "group": "Github resources",
+      "group": "Github Resources",
       "pages": ["gh/ks_loading"]
     }
   ],
