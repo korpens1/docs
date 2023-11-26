@@ -4,7 +4,7 @@ description: 'Loading screen for FiveM, based on Polish trucker server [vpet.pl]
 
 ---
 
-## Basic
+## Configuration
     ### config.js
 ```js
 var config = {
@@ -50,5 +50,34 @@ var config = {
         'ups1.png',
         'ups2.png'
     ]
+}
+```
+    ### style.css
+```css
+
+:root {
+    /* Background contrast */
+    --background-contrast: 95%;
+
+    /* Background blur */
+    --background-blur: 3px;
+
+    /* Loading Bar background color*/
+    --loadingbar-color: #ffffff5b;
+
+    /* Loading Bar progress color */
+    --loadingbar-progress-color: #0000009f;
+
+    /* Loading Bar height */
+    --loadingbar-height: 27px;
+
+    /* Footer font color */
+    --footer-font-color: #ffffff;
+
+    /* Footer font size */
+    --footer-font-size: 24px;
+
+    /* Image Fade color */
+    --fadeTo-Color: #222222;
 }
 ```
