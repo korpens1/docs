@@ -56,6 +56,9 @@
     {
       "group": "Poradniki",
       "pages": ["poradniki/token"]
+    },    {
+      "group": "Github resources",
+      "pages": ["gh/ks_loading"]
     }
   ],
   "footerSocials": {
